@@ -17,7 +17,8 @@ To run this project on your local computer follow these steps:
 ```
 npm install
 ```
-**3. Run the project
+
+**3. Run the project**
 ```
 npm start
 ```
